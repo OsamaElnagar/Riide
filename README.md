@@ -6,10 +6,10 @@ Ride-Sharing App.
 
 ![1](https://github.com/OsamaElnagar/Riide/assets/109289535/20510e88-053a-4eab-82c3-081e539b78c2)
 
-![20](https://github.com/OsamaElnagar/Riide/assets/109289535/67f48681-a9b6-487a-87c7-f44bfa930345)
-![21](https://github.com/OsamaElnagar/Riide/assets/109289535/719ccbc3-6be2-4059-8416-2505f3528bb7)
-![22](https://github.com/OsamaElnagar/Riide/assets/109289535/9d47e73e-492c-4617-b7ef-142b355df5c9)
-![23](https://github.com/OsamaElnagar/Riide/assets/109289535/7a9df2bb-5350-4443-bf7f-06acb4339c49)
+![20](https://github.com/OsamaElnagar/Riide/assets/109289535/67f48681-a9b6-487a-87c7-f44bfa930345)![21](https://github.com/OsamaElnagar/Riide/assets/109289535/719ccbc3-6be2-4059-8416-2505f3528bb7)
+
+![22](https://github.com/OsamaElnagar/Riide/assets/109289535/9d47e73e-492c-4617-b7ef-142b355df5c9)![23](https://github.com/OsamaElnagar/Riide/assets/109289535/7a9df2bb-5350-4443-bf7f-06acb4339c49)
+
 ![24](https://github.com/OsamaElnagar/Riide/assets/109289535/f3996c50-7ea6-427e-be28-a6b3c044b2d6)
 ![25](https://github.com/OsamaElnagar/Riide/assets/109289535/f548d816-9b14-48dd-93f0-3522e2fd8c29)
 ![26](https://github.com/OsamaElnagar/Riide/assets/109289535/3a791b64-b921-4041-a608-76125767fa84)
